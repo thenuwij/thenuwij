@@ -9,13 +9,13 @@ Alongside this, I’ve worked on systems-focused projects such as a real-time FP
 Outside of tech, I enjoy cycling and occasionally running to stay active and clear-headed. I’m always keen to learn, collaborate, and work on meaningful products, and I’m currently seeking software engineering internship opportunities where I can grow while contributing to real-world systems.
 Let’s connect.
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/thenujawijesuriya">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:jwthenu@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
   </a>
 </p>
 
