@@ -1,13 +1,14 @@
 ## Hi there 👋
 
-I’m Thenuja, a final-year Computer Engineering (Honours) student at UNSW Sydney with a strong interest in backend, systems, and AI-driven software. I enjoy building reliable, scalable systems and working close to the fundamentals of how software and hardware interact.
+I'm Thenuja, a final-year Computer Engineering (Honours) student at UNSW Sydney with a strong interest in backend, systems, and AI-driven software. I enjoy building reliable, scalable systems and working close to the fundamentals of how software and hardware interact.
 
-I’m currently completing my Honours thesis, where I built UniVise, a full-stack AI platform that helps students plan courses, majors, and career pathways. Through this project, I worked across the stack using Python, PostgreSQL, and React, with a focus on backend logic, data handling, and designing systems that can support real users and evolving requirements.
+I recently completed my Honours thesis, where I built UniVise — a full-stack AI platform that helps university students plan courses, majors, and career pathways. The project received a High Distinction and was selected for the UNSW CSE Thesis Showcase 2025. It is currently deployed in production with an ongoing usability study. Through this project I worked across the full stack using Python, FastAPI, PostgreSQL, and React, with a focus on backend logic, AI integration, and designing systems that support real users at scale.
 
-Alongside this, I’ve worked on systems-focused projects such as a real-time FPGA audio pipeline using VHDL, AXI DMA, and embedded C, which strengthened my understanding of performance constraints, low-latency data flow, and hardware–software integration.
+My broader project interests span embedded systems and FPGA development, computer vision and machine learning, full-stack and backend engineering, and AI agent architecture. I've worked on projects ranging from a real-time FPGA audio pipeline using VHDL and AXI DMA to a personal finance dashboard with a conversational AI agent built on the Anthropic Claude API.
 
-Outside of tech, I enjoy cycling and occasionally running to stay active and clear-headed. I’m always keen to learn, collaborate, and work on meaningful products, and I’m currently seeking software engineering internship opportunities where I can grow while contributing to real-world systems.
-Let’s connect.
+Outside of tech, I enjoy cycling and occasional karting to stay active. I'm currently seeking graduate software engineering roles where I can contribute to meaningful products while continuing to grow across hardware and software.
+
+Let's connect.
 
 <p align="left">
   <a href="https://linkedin.com/in/thenujawijesuriya">
@@ -18,4 +19,3 @@ Let’s connect.
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
   </a>
 </p>
-
