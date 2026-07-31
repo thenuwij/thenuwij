@@ -13,4 +13,7 @@ Outside of tech I enjoy karting and reading. Let's connect!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a
+  <a href="mailto:jwthenu@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+  </a>
+</p>
