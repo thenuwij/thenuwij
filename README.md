@@ -1,6 +1,6 @@
 ## Hi, I'm Thenuja 👋
 
-I'm a final-year Computer Engineering (Honours) student at UNSW Sydney, interested in backend, systems, and AI-driven software — particularly work that sits close to how software and hardware interact.
+I'm a final-year Computer Engineering (Honours) student at UNSW Sydney, interested in backend, systems, and AI-driven software. Most importantly work that sits close to how software and hardware interact.
 
 For my Honours thesis I built UniVise, a full-stack platform that helps university students plan courses, majors, and career pathways. I worked across the stack with Python, FastAPI, PostgreSQL, and React, focusing mainly on the backend logic and AI integration. It's currently deployed with a usability study running, and it received a High Distinction and a spot in the UNSW CSE Thesis Showcase 2025.
 
