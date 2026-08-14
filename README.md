@@ -1,12 +1,25 @@
 ## Hi, I'm Thenuja 👋
 
-I'm a final-year Computer Engineering (Honours) student at UNSW Sydney, interested in backend, systems, and AI-driven software. Most importantly work that sits close to how software and hardware interact.
+I'm a Computer Engineering (Honours) graduate from UNSW Sydney, now a Research Assistant
+there. I work on applied AI and backend systems, which involved training models, wiring them into real
+services, and keeping those services running in production.
 
-For my Honours thesis I built UniVise, a full-stack platform that helps university students plan courses, majors, and career pathways. I worked across the stack with Python, FastAPI, PostgreSQL, and React, focusing mainly on the backend logic and AI integration. It's currently deployed with a usability study running, and it received a High Distinction and a spot in the UNSW CSE Thesis Showcase 2025.
+For my Honours thesis I built **UniVise**, a full-stack platform that helps university
+students plan courses, majors, and career pathways. I worked across the stack with Python,
+FastAPI, PostgreSQL and React, focusing mainly on the backend logic and AI integration.
+It's deployed on AWS and now university-funded — I maintain it for its student users, with
+a usability study coming up. It received a High Distinction and a spot in the UNSW CSE
+Thesis Showcase 2025.
 
-My other projects span embedded systems and FPGA work, computer vision and machine learning, and backend engineering. Two I've enjoyed most: a real-time FPGA audio pipeline in VHDL using AXI DMA, and a personal finance dashboard with an AI agent that queries financial data, logs transactions, and analyses spending patterns.
+Elsewhere: **Subtrack**, a personal finance platform with an AI agent that finds recurring
+payments in your inbox, logs transactions and analyses spending; computer vision work in
+PyTorch (crop pest detection with YOLOv8s, facial emotion recognition with ResNet-34); and
+backend engineering from an internship building service-health monitoring APIs on Azure.
 
-Outside of tech I enjoy karting and reading. Let's connect!
+I also like work that sits close to how software and hardware interact — a real-time FPGA
+audio pipeline in VHDL using AXI DMA is still one of my favourite things I've built.
+
+Let's connect!
 
 <p align="left">
   <a href="https://linkedin.com/in/thenujawijesuriya">
