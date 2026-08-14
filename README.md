@@ -11,10 +11,11 @@ It's deployed on AWS and now university-funded, so I maintain it for its student
 a usability study coming up. It received a High Distinction and a spot in the UNSW CSE
 Thesis Showcase 2025.
 
-Elsewhere: **Subtrack**, a personal finance platform with an AI agent that finds recurring
-payments in your inbox, logs transactions and analyses spending; computer vision work in
-PyTorch (crop pest detection with YOLOv8s, facial emotion recognition with ResNet-34); and
-backend engineering from an internship building service-health monitoring APIs on Azure.
+My other projects cover a few areas. Subtrack is a personal finance platform with an AI
+agent that finds recurring payments in your inbox, logs transactions and analyses spending.
+I've also trained computer vision models in PyTorch, including crop pest detection with
+YOLOv8s and facial emotion recognition with ResNet-34, and built service-health monitoring
+APIs on Azure during a backend internship.
 
 I also like work that sits close to how software and hardware interact. A real-time FPGA
 audio pipeline in VHDL using AXI DMA is still one of my favourite things I've built.
