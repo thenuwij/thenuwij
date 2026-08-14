@@ -7,7 +7,7 @@ services, and keeping those services running in production.
 For my Honours thesis I built **UniVise**, a full-stack platform that helps university
 students plan courses, majors, and career pathways. I worked across the stack with Python,
 FastAPI, PostgreSQL and React, focusing mainly on the backend logic and AI integration.
-It's deployed on AWS and now university-funded — I maintain it for its student users, with
+It's deployed on AWS and now university-funded, so I maintain it for its student test users, with
 a usability study coming up. It received a High Distinction and a spot in the UNSW CSE
 Thesis Showcase 2025.
 
@@ -16,7 +16,7 @@ payments in your inbox, logs transactions and analyses spending; computer vision
 PyTorch (crop pest detection with YOLOv8s, facial emotion recognition with ResNet-34); and
 backend engineering from an internship building service-health monitoring APIs on Azure.
 
-I also like work that sits close to how software and hardware interact — a real-time FPGA
+I also like work that sits close to how software and hardware interact. A real-time FPGA
 audio pipeline in VHDL using AXI DMA is still one of my favourite things I've built.
 
 Let's connect!
